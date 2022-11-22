@@ -3,12 +3,15 @@
 ## [Find Formlulas Here](https://cridder.github.io/property-wizard-formulas/) - https://cridder.github.io/property-wizard-formulas/   
 
 ## What
-This reposistory is for the AEC community to share formulas for [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW).  [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) is created by [David Wood Design Ltd.](https://davidwooddesign.com/).  [David Wood Design Ltd.](https://davidwooddesign.com/) assumes no liability, supplies no trademark, and provides no warranty on this sites content.
+This repository is for the AEC community to share formulas for [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW).  [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) is created by [David Wood Design Ltd.](https://davidwooddesign.com/).  [David Wood Design Ltd.](https://davidwooddesign.com/) assumes no liability, supplies no trademark, and provides no warranty on this sites content.
 
 ## Why
 Because sharing is caring.
 
-<img src="./docs/images/sharing-is-caring-love.gif" width="25%" height="25%"/>
+<img src="./docs/images/sharing-is-caring-love.gif" width="20%" height="20%"/>
+
+###### image credit - https://tenor.com/view/sharing-is-caring-love-pants-bear-gif-22180520 
+---
 
 ## Who
 cridder https://github.com/cridder:
@@ -16,7 +19,7 @@ cridder https://github.com/cridder:
 - is a end user of [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW).
 - pays for [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) personally.
 - does not profit (receive $) from this site.
-- is not sponsored and/or associated with [David Wood Design Ltd.](https://davidwooddesign.com/).  [David Wood Design Ltd.](https://davidwooddesign.com/) other than being a customer
+- is not sponsored and/or associated with [David Wood Design Ltd.](https://davidwooddesign.com/).  [David Wood Design Ltd.](https://davidwooddesign.com/) other than being a customer.
 - cannot be held liable for any formula hosted here.
 - assumes no liability, supplies no trademark, and provides no warranty on this sites content.
 
@@ -55,6 +58,10 @@ Code block below should be used for formatting contribution.
 
 ---
 
+# Example Contribution
+
+---
+
 ## Formula
 | `Category` | `Target Property` | `Formula` |
 | :---: | :---: | :---: |
@@ -68,12 +75,17 @@ Code block below should be used for formatting contribution.
 
 ---
 
+## Format 
 The above format is simple and efficient.  Any user can apply enter information quickly into the [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) dialog.  We are NOT going to share the GUID's that [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) creates and manages for obvious reasons.
 
 ![PropertyWizard dialog](./docs/images/2022-11-21_18-03-00.png)
 
-### The Future
+---
+
+## The Future
 The more people who contribute the more fancy and organized the site might become.  For now it is a good minimum viable product.
 
-Thanks.
+---
+
+# **Thanks**.
   

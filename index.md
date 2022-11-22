@@ -1,10 +1,32 @@
 # Property Wizard Formulas
+---
+---
+## Template Post
+## Formula
+| `Category` | `Target Property` | `Formula` |
+| :---: | :---: | :---: |
+| EnterCategoryName | EnterParameter | EnterFormulaText |
 
-*20221121*<br/>
-*Name*: cridder<br/>
-*GitHub*: https://github.com/cridder<br/>
-*LinkedIn*: https://www.linkedin.com/in/chrisridder/<br/>
-*Description of the PropertyWizard Formula use/goals/etc*: Sets the out of the box Mark parameter to the element id on all doors.  Eliminates any and all warning messages about duplicate Mark values.  Mark values are meant to be unique.<br/>
-*Category*: Doors<br/>
-*Target Property*: Mark<br/>
-*Formula*: Id<br/>
+**Description**: WHAT DOES THIS FORMULA DO?
+<br/>
+**Contributor**:  NAME
+<br/>
+*Contact*:  CONTRIBUTORS WEB/GITHUB/LINKEDIN LINK
+
+---
+
+---
+
+## Formula
+| `Category` | `Target Property` | `Formula` |
+| :---: | :---: | :---: |
+| Doors | Mark | Id |
+
+**Description**: Sets the out of the box Mark parameter to the element id on all doors.  Eliminates any and all warning messages about duplicate Mark values.  Mark values are meant to be unique.
+<br/>
+**Contributor**:  cridder
+<br/>
+**Contact**:  https://github.com/cridder https://www.linkedin.com/in/chrisridder/
+
+---
+
