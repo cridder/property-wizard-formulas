@@ -52,15 +52,17 @@ Code block below should be used for formatting contribution.
 ---
 
 ## Formula
-| `Category` | `Target Property` | `Formula` |
-| :---: | :---: | :---: |
-| EnterCategoryName | EnterParameter | EnterFormulaText |
-
+**Category**:  EnterCategoryName
+<br/>
+**Target Property**:  EnterParameter
+<br/>
+**Formula**:  EnterFormulaText
+<br/>
 **Description**: WHAT DOES THIS FORMULA DO?
 <br/>
 **Contributor**:  NAME
 <br/>
-*Contact*:  CONTRIBUTORS WEB/GITHUB/LINKEDIN LINK
+**Contact**:  CONTRIBUTORS WEB/GITHUB/LINKEDIN LINK
 
 ---
 ```
@@ -68,11 +70,14 @@ Code block below should be used for formatting contribution.
 
 ## Example Contribution
 
+---
 ## Formula
-| `Category` | `Target Property` | `Formula` |
-| :---: | :---: | :---: |
-| Doors | Mark | Id |
-
+**Category**:  Doors
+<br/>
+**Target Property**:  Mark
+<br/>
+**Formula**:  Id
+<br/>
 **Description**: Sets the out of the box Mark parameter to the element id on all doors.  Eliminates any and all warning messages about duplicate Mark values.  Mark values are meant to be unique.
 <br/>
 **Contributor**:  cridder
