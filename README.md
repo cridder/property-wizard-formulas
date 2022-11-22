@@ -1,6 +1,6 @@
 # Property Wizard Formulas
 
-## [Find Formulas Here](https://cridder.github.io/property-wizard-formulas/) - https://cridder.github.io/property-wizard-formulas/
+## [Find Formulas Here](https://cridder.github.io/property-wizard-formulas/)
 
 ---
 
@@ -43,7 +43,8 @@ cridder https://github.com/cridder:
 - Learn how to use GitHub.
   - [Get Started](https://docs.github.com/en/get-started).
 - [Send a Pull Request with edits to index.md](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests).
-- Use a Fenced Code Block on the The Pull Request, see below
+- See below for a contribution template.
+- You will be adding content to the [index.md](https://cridder.github.io/property-wizard-formulas/).
 
 ## Example Contribution Format  
 Code block below should be used for formatting contribution.
