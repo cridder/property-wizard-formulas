@@ -42,4 +42,9 @@ cridder https://github.com/cridder:
 The above format is simple and efficient.  Any user can apply enter information quickly into the PropertyWizard dialog.  We are NOT going to share the GUID's that PropertyWizard creates and manages for obvious reasons.
 
 ![PropertyWizard dialog](./docs/images/2022-11-21_18-03-00.png)
+
+### The Future
+The more people who contribute the more fancy and organized the site might become.  For now it is a good minimum viable product.
+
+Thanks.
   
