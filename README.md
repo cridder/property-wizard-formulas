@@ -1,9 +1,13 @@
 # Property Wizard Formulas
 
-## [Find Formlulas Here](https://cridder.github.io/property-wizard-formulas/) - https://cridder.github.io/property-wizard-formulas/   
+## [Find Formulas Here](https://cridder.github.io/property-wizard-formulas/) - https://cridder.github.io/property-wizard-formulas/
+
+---
 
 ## What
 This repository is for the AEC community to share formulas for [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW).  [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) is created by [David Wood Design Ltd.](https://davidwooddesign.com/).  [David Wood Design Ltd.](https://davidwooddesign.com/) assumes no liability, supplies no trademark, and provides no warranty on this sites content.
+
+---
 
 ## Why
 Because sharing is caring.
@@ -11,6 +15,7 @@ Because sharing is caring.
 <img src="./docs/images/sharing-is-caring-love.gif" width="20%" height="20%"/>
 
 ###### image credit - https://tenor.com/view/sharing-is-caring-love-pants-bear-gif-22180520 
+
 ---
 
 ## Who
@@ -23,9 +28,13 @@ cridder https://github.com/cridder:
 - cannot be held liable for any formula hosted here.
 - assumes no liability, supplies no trademark, and provides no warranty on this sites content.
 
+---
+
 ## Everyone
 - It is the responsibility of everyone using content from this site to test any and all [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) formulas in a nonproduction envronment.
 - Everyone using content from this site assumes all liability, warranties for all content used from this site.
+
+---
 
 ## How to contribute
 - Learn MarkDown.
@@ -55,12 +64,9 @@ Code block below should be used for formatting contribution.
 
 ---
 ```
-
 ---
 
-# Example Contribution
-
----
+## Example Contribution
 
 ## Formula
 | `Category` | `Target Property` | `Formula` |
