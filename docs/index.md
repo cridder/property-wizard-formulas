@@ -1,5 +1,8 @@
 # Property Wizard Formulas
 ---
+
+[READ.me](https://github.com/cridder/property-wizard-formulas/blob/main/README.md)
+
 ---
 
 ## Formula
