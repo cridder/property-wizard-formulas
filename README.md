@@ -37,6 +37,8 @@ cridder https://github.com/cridder:
 *Target Property*: Mark<br/>
 *Formula*: Id<br/>
 
+---
+
 The above format is simple and efficient.  Any user can apply enter information quickly into the PropertyWizard dialog.  We are NOT going to share the GUID's that PropertyWizard creates and manages for obvious reasons.
 
 ![PropertyWizard dialog](./docs/images/2022-11-21_18-03-00.png)
