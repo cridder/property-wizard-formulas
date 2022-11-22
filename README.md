@@ -1,5 +1,7 @@
 # Property Wizard Formulas
 
+## [Find Formlulas Here](https://cridder.github.io/property-wizard-formulas/) - https://cridder.github.io/property-wizard-formulas/   
+
 ## What
 This reposistory is for the AEC community to share formulas for [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW).  [PropertyWizard](https://apps.autodesk.com/en/Publisher/PublisherHomepage?ID=K3XURSQAXDBW) is created by [David Wood Design Ltd.](https://davidwooddesign.com/).  [David Wood Design Ltd.](https://davidwooddesign.com/) assumes no liability, supplies no trademark, and provides no warranty on this sites content.
 
