@@ -44,7 +44,7 @@ Code block below should be used for formatting contribution.
 | :---: | :---: | :---: |
 | EnterCategoryName | EnterParameter | EnterFormulaText |
 
-**Description**: Sets the out of the box Mark parameter to the element id on all doors.  Eliminates any and all warning messages about duplicate Mark values.  Mark values are meant to be unique.
+**Description**: WHAT DOES THIS FORMULA DO?
 <br/>
 **Contributor**:  NAME
 <br/>
